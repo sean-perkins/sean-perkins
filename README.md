@@ -16,4 +16,7 @@ Software Engineer at Ionic working on Ionic Framework. Previously Principal Soft
 - Active contributor on **Open Source** projects.
 - I'm mostly active within the **Ionic**, **Angular**, **React** and **TypeScript** communities.
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sean-perkins&show_icons=true&hide_border=true)
+
+
+| ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sean-perkins&show_icons=true&hide_border=true) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean-perkins&layout=compact&hide_border=true" />|
+| ------------- | ------------- |
