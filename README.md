@@ -1,6 +1,6 @@
 # Hello, I'm Sean <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-Software Engineer at Ionic working on [Ionic Framework](https://ionicframework.com/). Previously Principal Software Engineer at [Maestro Learning](https://maestrolearning.com/).
+Software Engineer Manager at Ionic working on [Ionic Framework](https://ionicframework.com/) and [Stencil](https://stenciljs.com/). Previously Principal Software Engineer at [Maestro Learning](https://maestrolearning.com/).
 
 - Active contributor on **Open Source** projects.
 - I'm mostly active within the **Ionic**, **Angular**, **React** and **TypeScript** communities.
