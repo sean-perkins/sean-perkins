@@ -2,19 +2,12 @@
 
 Principal Software Engineer at OutSystems. Previously Software Engineer Manager at Ionic working on [Ionic Framework](https://ionicframework.com/) and [Stencil](https://stenciljs.com/).
 
-- Active contributor on **Open Source** projects.
-- I'm mostly active within the **Ionic**, **Angular**, **React** and **TypeScript** communities.
+You can learn more about me on [my personal site](https://seanperkins.me/).
 
-
-
-| ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sean-perkins&show_icons=true&hide_border=true) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean-perkins&layout=compact&hide_border=true" />|
-| ------------- | ------------- |
-
-## Skills
-
-![My Skills](https://skillicons.dev/icons?i=angular,vue,react,aws,gcp,typescript,html,css,sass,firebase,jest,md,tailwind,vercel,vite,wordpress,vscode)
 
 ## Socials
 
+You can reach me on social:
+
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/seanfperkins)
-[![Twitter](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/seanfperkins/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/seanfperkins/)
